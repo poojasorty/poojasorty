@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pooja Sorty
+Data Analyst | Power BI · SQL · Python | Pune, India
 
-<!--
-**poojasorty/poojasorty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+MSc Biotechnology turned Data Analyst with 1.5+ years of experience
+building KPI dashboards, SQL pipelines, and actionable business insights
+in startup environments.
 
-Here are some ideas to get you started:
+## Skills
+- Power BI (DAX, Power Query, incremental refresh)
+- SQL (MariaDB) · Python (Pandas, NumPy)
+- Data Validation · KPI Dashboard Development
+- Stakeholder Communication · Business Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Retail Sales Performance Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTRjNTZmMTEtZWQwNC00NWYwLTg5MzctODJhMDg0YmUxNzQ3IiwidCI6IjNlNzA0N2I5LWE2MmItNDMxYi1iNTM3LTU1ZWIyMGI1YzQ2MCJ9) — Power BI FMCG
+
+- [Customer Behavior Analysis](https://colab.research.google.com/drive/1K_kmHdkkNffUnJJR9zmtrA56g88-Pp_h?usp=sharing) — Python EDA
+
+## Connect
+- LinkedIn: linkedin.com/in/poojasorty
+- Email: poojasorty@gmail.com
+
