@@ -15,6 +15,7 @@ in startup environments.
 ## Projects
 - [Retail Sales Performance Dashboard](https://github.com/poojasorty/retail-sales-powerbi-dashboard) — Power BI FMCG
 - [Customer Behavior Analysis](https://github.com/poojasorty/customer-behavior-analysis) — Python EDA
+- [Tableau Portfolio](https://public.tableau.com/app/profile/pooja.sorty) 
 
 ## Connect
 - LinkedIn: linkedin.com/in/poojasorty
