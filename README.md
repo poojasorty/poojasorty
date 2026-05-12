@@ -2,8 +2,7 @@
 Data Analyst | Power BI · SQL · Python | Pune, India
 
 ## About me
-Data Analyst with building KPI dashboards, SQL pipelines, and actionable business insights
-in startup environments.
+Data Analyst with 1.5+ years of experience building KPI dashboards, SQL pipelines, and actionable business insights in startup environments
 
 ## Skills
 - Power BI (DAX, Power Query, incremental refresh)
@@ -18,6 +17,6 @@ in startup environments.
 - [Tableau Portfolio](https://public.tableau.com/app/profile/pooja.sorty) 
 
 ## Connect
-- LinkedIn: linkedin.com/in/poojasorty
+- LinkedIn: https://linkedin.com/in/poojasorty
 - Email: poojasorty@gmail.com
 
