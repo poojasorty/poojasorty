@@ -13,6 +13,7 @@ in startup environments.
 
 ## Projects
 - [Retail Sales Performance Dashboard](https://github.com/poojasorty/retail-sales-powerbi-dashboard) — Power BI FMCG
+- [SQL E-commerce Customer Analysis](https://github.com/poojasorty/sql-ecommerce-customer-analysis) — MySQL
 - [Customer Behavior Analysis](https://github.com/poojasorty/customer-behavior-analysis) — Python EDA
 - [Tableau Portfolio](https://public.tableau.com/app/profile/pooja.sorty) 
 
