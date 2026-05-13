@@ -5,8 +5,9 @@ Data Analyst | Power BI · SQL · Python | Pune, India
 Data Analyst with 1.5+ years of experience building KPI dashboards, SQL pipelines, and actionable business insights in startup environments
 
 ## Skills
-- Power BI (DAX, Power Query, incremental refresh)
-- SQL (MariaDB) · Python (Pandas, NumPy)
+- Power BI (DAX, Power Query)
+- SQL (MariaDB) SQL Pipelines, Full/ incremental refresh 
+- Python (Pandas, NumPy)
 - Data Validation · KPI Dashboard Development
 - Stakeholder Communication · Business Reporting
 
